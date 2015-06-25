@@ -3,6 +3,8 @@
 # BarracudaCentral
 BarracudaCentral IP Address Lookup in Node.js
 
+Also check out my [DroneBL](https://npmjs.com/package/dronebl) and [SpamCop](https://npmjs.com/package/spamcop) packages.
+
 Example Lookup:
 
 First run ```npm install barracudacentral``` to install the BarracudaCentral package to your system.
