@@ -1,6 +1,6 @@
 {
   "name": "barracudacentral",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "BarracudaCentral IP Address Lookup",
   "main": "index.js",
   "dependencies": {
